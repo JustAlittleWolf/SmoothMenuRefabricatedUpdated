@@ -1,4 +1,4 @@
-# Smooth Menu Refabricated
+# Smooth Menu Refabricated Updated
 
 ## Overview
-Fabric port of [BookerCatch's Smooth Menu](https://github.com/BookerCatch/SmoothMenu), unlocks FPS in main menu screen
+Port of [shizotoaster's Smooth Menu](https://github.com/shizotoaster/SmoothMenuRefabricated), unlocks FPS in main menu screen

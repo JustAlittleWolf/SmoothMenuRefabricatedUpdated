@@ -7,11 +7,11 @@
   "description": "Uncaps the main menu's framerate limit.",
   "authors": [
     "BookerCatch",
-    "shizotoaster"
+    "shizotoaster",
+    "JustAlittleWolf"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/smoothmenu-refabricated",
-    "sources": "https://github.com/shizotoaster/SmoothMenuRefabricated"
+    "sources": "https://github.com/JustAlittleWolf/SmoothMenuRefabricatedUpdated"
   },
 
   "license": "MIT",
@@ -22,6 +22,6 @@
   ],
 
   "depends": {
-    "minecraft": ">=1.16"
+    "minecraft": ">=1.21.4"
   }
 }
